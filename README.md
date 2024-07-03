@@ -45,8 +45,3 @@ python3 generate_data.py
 
 # Queries
 As queries estão disponíveis no arquivo queries_db.sql, no repositório.
-
-# Membros
-Cauan Sousa - 24.124.084-5  
-Gustavo Baggio - 24.122.012-8  
-Ruan Turola - 24.122.050-8  
